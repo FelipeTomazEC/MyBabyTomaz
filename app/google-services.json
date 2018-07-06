@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "844344810403",
+    "firebase_url": "https://mybabytomaz.firebaseio.com",
+    "project_id": "mybabytomaz",
+    "storage_bucket": "mybabytomaz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844344810403:android:e5e1ac1c034f7d48",
+        "android_client_info": {
+          "package_name": "com.example.tomaz.mybabytomaz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844344810403-kp1aloga84m0hrdrvtv2ale3ia2od9r6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tomaz.mybabytomaz",
+            "certificate_hash": "ef75fbeaa781439e42f6cca10b9dea73fb640637"
+          }
+        },
+        {
+          "client_id": "844344810403-291j677th80dsvc89jrqc1gfegplv36s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSCZS0cJdMYmEuhJJeRH3zS_d1mjjclsg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844344810403-291j677th80dsvc89jrqc1gfegplv36s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
